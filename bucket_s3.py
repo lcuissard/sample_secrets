@@ -7,7 +7,7 @@ import pymongo
 
 
 def aws_upload(data: Dict):
-    database = aws_lib.connect("AKIAF6BAFJKR45SAWSZ5", "hjshnk5ex5u34565AWS654/JKGjhz545d89sjkja")
+    database = aws_lib.connect("AKIA4N27N62BM32R2IDJ", "UETU5DxUF9ppljtejR/t8HTkRdAlRn8G7m6PW0d8")
     database.push(data)
 
 
