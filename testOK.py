@@ -1,0 +1,4 @@
+#AWS credentials
+
+aws_access_key_id = AKIA4N27N62BNUU2MIRP
+aws_secret_access_key = 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
